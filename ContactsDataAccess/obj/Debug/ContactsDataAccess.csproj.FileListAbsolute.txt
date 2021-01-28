@@ -1,0 +1,11 @@
+C:\Users\hassatri\source\repos\ContactsWebAPI472\ContactsDataAccess\bin\Debug\ContactsDataAccess.dll.config
+C:\Users\hassatri\source\repos\ContactsWebAPI472\ContactsDataAccess\bin\Debug\ContactsDataAccess.dll
+C:\Users\hassatri\source\repos\ContactsWebAPI472\ContactsDataAccess\bin\Debug\ContactsDataAccess.pdb
+C:\Users\hassatri\source\repos\ContactsWebAPI472\ContactsDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\hassatri\source\repos\ContactsWebAPI472\ContactsDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hassatri\source\repos\ContactsWebAPI472\ContactsDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\hassatri\source\repos\ContactsWebAPI472\ContactsDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hassatri\source\repos\ContactsWebAPI472\ContactsDataAccess\obj\Debug\ContactsDataAccess.csproj.CopyComplete
+C:\Users\hassatri\source\repos\ContactsWebAPI472\ContactsDataAccess\obj\Debug\ContactsDataAccess.dll
+C:\Users\hassatri\source\repos\ContactsWebAPI472\ContactsDataAccess\obj\Debug\ContactsDataAccess.pdb
+C:\Users\hassatri\source\repos\ContactsWebAPI472\ContactsDataAccess\obj\Debug\ContactsDataAccess.csprojAssemblyReference.cache
